@@ -260,5 +260,3 @@ print(f"triádicas: RGB{cor_tri}")
 print(f"split_complementar: RGB{cor_split}")
 print(f"tetrádica: RGB{cor_tetra}")
 print(f"quadrada: RGB{cor_quadra}")
-
-qual a funcionalide deste codigo?
